@@ -1,0 +1,9 @@
+* text=auto eol=lf
+
+*.exe binary
+*.msi binary
+*.dmg binary
+*.appimage binary
+*.zip binary
+*.sig binary
+

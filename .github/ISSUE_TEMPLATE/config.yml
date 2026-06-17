@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://github.com/qua-erd/qua-erd-public/tree/main/docs
+    about: Check documentation before opening an issue.
+
