@@ -2,6 +2,8 @@
 
 By using QuaERD, you agree to these terms.
 
+QuaERD is published by 合同会社リーフルーフ / Leafroof LLC.
+
 ## Use of the Software
 
 You may use QuaERD according to the license and plan conditions described in [LICENSE.md](LICENSE.md).
@@ -21,4 +23,3 @@ You may not redistribute QuaERD binaries from unofficial locations, remove licen
 ## Limitation of Liability
 
 QuaERD is provided without warranty. The authors and distributors are not liable for damages caused by use, inability to use, generated artifacts, data loss, business interruption, security incidents, or third-party claims.
-

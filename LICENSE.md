@@ -2,6 +2,8 @@
 
 QuaERD is distributed as binary software.
 
+QuaERD is published by 合同会社リーフルーフ / Leafroof LLC.
+
 The source code is not published in this repository, and this repository does not grant an open source license to the QuaERD source code.
 
 ## Free Plan
@@ -23,4 +25,3 @@ Paid plans do not guarantee operation in every database version, environment, sc
 ## No Warranty
 
 QuaERD is provided without warranty. The authors and distributors are not liable for any loss, damage, business interruption, data loss, or other consequences arising from the use of this software.
-

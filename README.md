@@ -39,7 +39,10 @@ Before opening an issue, please check:
 
 QuaERD is distributed as binary software. See [LICENSE.md](LICENSE.md), [TERMS.md](TERMS.md), and [PRIVACY.md](PRIVACY.md).
 
+## Publisher
+
+QuaERD is published by [合同会社リーフルーフ / Leafroof LLC](https://www.leafroof.co.jp).
+
 ## Sponsorship
 
 If QuaERD helps your work, sponsorship helps fund continued development, compatibility testing, and documentation.
-
