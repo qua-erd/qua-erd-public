@@ -45,4 +45,10 @@ QuaERD is published by [合同会社リーフルーフ / Leafroof LLC](https://w
 
 ## Sponsorship
 
-If QuaERD helps your work, sponsorship helps fund continued development, compatibility testing, and documentation.
+GitHub Sponsors will be enabled when the first public beta is ready.
+
+For users who want direct product benefits such as plan features, commercial use rights, higher limits, or continued service use, a QuaERD subscription is recommended.
+
+Sponsorship is voluntary support, similar to a tip. It helps fund continued development, compatibility testing, documentation, issue triage, and feature planning.
+
+Sponsorship is not a software license purchase or paid support contract. Sponsors' issues and feature requests may be reviewed with higher priority during development planning, but response time, implementation, and release timing are not guaranteed.
