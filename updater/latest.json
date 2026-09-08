@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.11",
-    "notes":  "QuaERD stable update.",
-    "pub_date":  "2026-09-07T13:24:19+09:00",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUmZlY3pTQWMrZzlWSXdIZHdmY1ZRbEp0NXg2MEt3L05CREQrV2RuaTdDQmdKQ3N3WnI0WnNlSTJKVytFejNqZGFhd0RFaUM0OGMzR0VBTDI3cXE4cktxMENQcENSOGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzU1MDU4CWZpbGU6cXVhZXJkXzEuMC4xMV94NjQtc2V0dXAuZXhlCmZhQ0V3U1BzSTVISkxSMGd6NWNXb1hnc2NXQU5yQVR5UGlLL2hyeVBrYUxBM3lTZWZHOWRmZERRQWRHV3lLYSs4Z3ZLcWs1dUV6Y3dNRlgxNEQxa0FRPT0K",
-                                             "url":  "https://github.com/qua-erd/qua-erd-public/releases/download/v1.0.11/QuaERD_1.0.11_x64-setup.exe"
-                                         }
-                  }
+  "version": "1.0.12",
+  "notes": "# QuaERD 1.0.12\n\n## 日本語\n\n- SSHトンネル・OS資格情報保存・接続先一覧を追加。接続名、開発／検証／本番、読取専用を表示し、ローカルDB接続は追加入力なしで利用できます。\n- SQL履歴・保存SQL・複数タブを追加。保存SQLはプロジェクトの `.sql` ファイル、履歴・作業状態は端末内に保存します。\n- MySQL、MariaDB、TiDB、PostgreSQL、SQL Server、SQLite、Oracle、ClickHouseのSQL解析に対応。DB固有の推定計画・要約・項目説明・INDEX／キー情報を確認できます。\n- 解析結果を変更前として保持し、SQLやINDEX変更後の計画と比較できます。テーブル／コンソール表示に対応します。\n- Tauri HTTPの通信失敗を握りつぶしてブラウザへ再送する動作を修正。元の理由を表示し、診断情報から認証情報を除外します。\n- MySQL系の符号なし数値・メタデータ、SQL Serverの推定値、SQLiteとClickHouseの結果読み取りを改善しました。\n\n### 対応範囲\n\n- 解析は単一SELECT／WITHの推定計画です。EXPLAIN ANALYZEによる実測は含みません。\n- SSHはMySQL・MariaDB・TiDB・PostgreSQLに対応します。\n- SQL Serverの解析にはSHOWPLAN権限、OracleにはSQLcl／SQL*Plusと計画を記録できるPLAN_TABLEが必要です。Oracleは計画取得後にロールバックします。\n- SQLiteにはsqlite3 CLIが必要です。詳細は同梱の `doc/sql-analysis-ja.md` を参照してください。\n- 更新前に、プロジェクトと関連ファイルをバックアップしてください。\n\n## English\n\n- Added SSH tunnels, OS credential storage, saved connections, environment labels and read-only settings while preserving simple local connections.\n- Added SQL history, saved `.sql` files and workspace tabs, with local history and draft storage.\n- Added estimated plan analysis for MySQL, MariaDB, TiDB, PostgreSQL, SQL Server, SQLite, Oracle and ClickHouse, with engine-specific summaries, explanations and index/key metadata.\n- Added session-only before/after plan comparison with table and console views.\n- Fixed swallowed native HTTP errors and browser retries. Original transport failures are now surfaced with sanitized diagnostics.\n- Improved MySQL unsigned values and metadata, SQL Server estimates, and SQLite/ClickHouse result handling.\n\nAnalysis covers single SELECT/WITH statements, without EXPLAIN ANALYZE. SSH supports MySQL, MariaDB, TiDB and PostgreSQL. SQL Server requires SHOWPLAN permission; Oracle requires SQLcl/SQL*Plus and a writable PLAN_TABLE (plan changes are rolled back); SQLite requires its CLI. See the bundled `doc/sql-analysis.md`. Back up projects before updating.\n",
+  "pub_date": "2026-09-08T23:18:43+09:00",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUmZlY3pTQWMrZzhjYm5vdGNjWmhieEFnNzhDMWliaDIyZmh4OFYxODg0anpubTY4Z0tWSUtkelRnOEsyWUxQakxmMjZKOUhtZm1ZVXRSc0ZaOUR5ODFmNU5qeExJOGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODc3MTIyCWZpbGU6cXVhZXJkXzEuMC4xMl94NjQtc2V0dXAuZXhlCkx4VjE4TU5JTGNLZGlicXpSQmxhRDdEUXJ3ZXFBVXJVdWQ5NVF1L292cHVRcHdwaVZSL2E0cTgydUhRSWJvdXpTNENHaHlZUTlWRXRLK1VCU3pybkFnPT0K",
+      "url": "https://github.com/qua-erd/qua-erd-public/releases/download/v1.0.12/QuaERD_1.0.12_x64-setup.exe"
+    }
+  }
 }
