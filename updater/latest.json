@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.14",
-    "notes":  "QuaERD stable update.",
-    "pub_date":  "2026-09-28T21:33:44+09:00",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUmZlY3pTQWMrZzBZMmNQcVZ2cUpWeHR4NnpJbHJYWFZ5a0p6bjd2UWhjWXAzSSs0Uk9HQnFvZUpGeDc5clF3TGN4bnlZVkhsSDhwbkE1WXlrT0JnczdRWEZ3VzljU0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTk4ODIzCWZpbGU6cXVhZXJkXzEuMC4xNF94NjQtc2V0dXAuZXhlCjNaV29PVU1tckxyeHpJWDlJcGE1eXpUWStoZkluelRGTE1LbUN4eDM5K3AyeTh4Rnk4eHZTYmdzS09DdGQxWHZmbnZXeUdGN05kcUlxTGRJUlh0V0NnPT0K",
-                                             "url":  "https://github.com/qua-erd/qua-erd-public/releases/download/v1.0.14/QuaERD_1.0.14_x64-setup.exe"
-                                         }
-                  }
+  "version": "1.0.15",
+  "notes": "画像設定（共通の保存先・image.toml出力）、多：多の関連編集設定、CRUD設定画面を改善しました。",
+  "pub_date": "2026-10-18T23:35:21+09:00",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUmZlY3pTQWMrZzFWRmJqTlFxUHpLbnd5M3pVMHFVRFdwOG05Sml0bzF1cFhKYlV6WmRwZUFGQkdQZmxLMUZ5QXIwQ1M3cGd1TXZiYVZBSm1RTk11cWczNjFXRlVQWlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzM0MTIwCWZpbGU6cXVhZXJkXzEuMC4xNV94NjQtc2V0dXAuZXhlCmM3M2Y4V0UzbzJDMVFIcGNNUEJwczZ4bENOemVDTXYvb1pJc3c4YWluUWVFM0VIb0sxdTBadW05ZkNVeEVvdm8zVW5GL1pSRWtma1hMQ2ZkcS80bkFRPT0K",
+      "url": "https://github.com/qua-erd/qua-erd-public/releases/download/v1.0.15/QuaERD_1.0.15_x64-setup.exe"
+    }
+  }
 }
