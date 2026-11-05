@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.18",
+    "version":  "1.0.19",
     "notes":  "QuaERD stable update.",
-    "pub_date":  "2026-11-04T16:56:38+09:00",
+    "pub_date":  "2026-11-05T15:20:20+09:00",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUmZlY3pTQWMrZzhJWXh2c2VJTXFsanFkb0VXdFVRblRlQVVTandqTDhqWmV5Uk5KT1kzQk1vMjc4TllnMi9wVXdTaWtReUdJTnVGMnRHdy9XczdYbHprSU5pUUlMN2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzc4OTk3CWZpbGU6cXVhZXJkXzEuMC4xOF94NjQtc2V0dXAuZXhlCitoeTRuVEF2NTh4citGanZIOS80WnFEZTdJNFUyUW9FYlcxUTZFdVkwK29CUzBnK05NdWV4L2hjQmJEK2lmT0cvUzgxL1Y4d3NYVVB5T1Z3VUNsMURRPT0K",
-                                             "url":  "https://github.com/qua-erd/qua-erd-public/releases/download/v1.0.18/QuaERD_1.0.18_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUmZlY3pTQWMrZzNtNkNxR1QxUXo1cUxGWGxtdW03YWZraEFLRlE3YkhEN2tISkw3c0oyMEVJd3E1QTJFQTVLMkFnd0U5S213VzMzdERkN2VNdndkSEdJanV2eHN5aWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODU5NjE5CWZpbGU6cXVhZXJkXzEuMC4xOV94NjQtc2V0dXAuZXhlClBWVVdHZzZXUThEZmY0RWFzdlUxbEFKOEZkMEQvbVNKSUdtZlkrUTFrbmhUaFFodmdWelk3MlcvUWluQkZVVk1qVWRRQjh0c3M2NHNlcmxzL05IRURnPT0K",
+                                             "url":  "https://github.com/qua-erd/qua-erd-public/releases/download/v1.0.19/QuaERD_1.0.19_x64-setup.exe"
                                          }
                   }
 }
